@@ -29,7 +29,7 @@ Follow these steps to install and play the game:
 1. Clone the game repository from GitHub:
 
    ```
-   git clone https://github.com/your-username/doomsday-3d-raycasting.git
+   git clone https://github.com/mondlivundla/Doomsday_Raycasting_Night.git
    ```
 
 2. Navigate to the game directory:
