@@ -1,4 +1,4 @@
-# Doomsday 3D Raycasting Shooting Game
+# Doomsday 3D Raycasting Night Shooting Game
 
 Welcome to the Doomsday 3D Raycasting Shooting Game! This game combines the classic first-person shooter gameplay with a unique raycasting rendering technique to create a thrilling and immersive experience. Prepare yourself for an action-packed journey through a post-apocalyptic world filled with enemies, weapons, and adrenaline-pumping battles.
 
@@ -35,7 +35,7 @@ Follow these steps to install and play the game:
 2. Navigate to the game directory:
 
    ```
-   cd doomsday-3d-raycasting
+   cd Doomsday_Raycasting_Night
    ```
 
 3. Install the necessary dependencies. Make sure you have [Python](https://www.python.org/) and [Pygame](https://www.pygame.org/) installed:
